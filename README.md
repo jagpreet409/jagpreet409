@@ -15,7 +15,7 @@ I'm currently working as a Software Developer🏛. I'm a passionate learner who'
 
 ### Talking about Personal Stuffs:
 
-- 🛠 I’m currently working with Java, Springboot, React, <br /> Javascript, etc.
+- 🛠 I’m currently working with Java, Springboot, Html, CSS, React, <br /> Javascript, etc.
 - 🚀I’m currently learning Full Stack Development.
 - 📫 How to reach me: jagpreet409@gmail.com
 
