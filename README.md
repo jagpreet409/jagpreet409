@@ -23,7 +23,7 @@ I'm currently working as a Software Developer🏛. I'm a passionate learner who'
 
 <code><img height="50" width="50" src="spring-boot-logo-png-4-transparent.png" alt="spring"></code>
 <code><img height="40" width="40" src="Visual_Studio_Code_1.35_icon.png" alt="react"></code>
-<code><img height="40" width="40" src="javascript-542e10ea6e.png" alt="javascript"></code>
+<code><img height="40" width="40" src="javascript-php-developers.png" alt="javascript"></code>
 <code><img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
 <code><img height="50" width="80" src="23-237369_html5-and-css3-transparent-background-html-logo-hd.png" alt="react"></code>
 <code><img height="50" width="50" src="vertical-logo-monochromatic.png" alt="react"></code>
