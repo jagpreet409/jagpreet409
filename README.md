@@ -2,7 +2,7 @@
 
 ### Glad to see you here!
 
-I'm currently working as a Software Developer🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️.
+I'm currently working as a Senior Software Developer🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️.
 
 <div align="center">
 
@@ -16,7 +16,7 @@ I'm currently working as a Software Developer🏛. I'm a passionate learner who'
 ### Talking about Personal Stuffs:
 
 - 🛠 I’m currently working with Java, Springboot, Html, CSS, React, <br /> Javascript, etc.
-- 🚀I’m currently learning Full Stack Development.
+- 🚀I’m currently working Full Stack Development.
 - 📫 How to reach me: jagpreet409@gmail.com
 
 ### Languages and Tools:
